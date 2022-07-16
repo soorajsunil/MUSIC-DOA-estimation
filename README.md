@@ -11,5 +11,5 @@ DOA_MUSIC.m
 <img src="plots/doa.bmp" width="600" height="400"> 
 </p>
 
-
-
+## References: 
+[1]. Schmidt, Ralph. "Multiple emitter location and signal parameter estimation." IEEE transactions on antennas and propagation 34.3 (1986): 276-280.
