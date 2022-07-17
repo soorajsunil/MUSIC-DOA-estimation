@@ -1,4 +1,4 @@
-# MUSIC-DOA-Estimation
+# MUSIC-DOA-estimation
 
 The Matlab script generates signal samples, sensor array measurements and perfrom direction of arrival (DOA) estimation using MUSIC algorithm. 
 
